@@ -1,0 +1,90 @@
+Q & A with the ChatBot
+Q1: what information can be found at country level?
+
+At the country level, one can find information about poverty, development topics, and data and research. This includes open data, research and publications, climate change, agriculture and food, fragility, conflict, and violence, poverty, debt, education, health, energy, and food security. Additionally, one can find information about job seekers, partners, investors, learners, events, World Bank Live, Speaker's Bureau, Spring & Annual Meetings, contacts & inquiries, and global search dropdown.
+
+Q2: Share the top insights at country level about climate change
+
+1. In Afghanistan, climate change is leading to an increase in extreme weather events, such as floods and droughts.
+2. In Albania, rising temperatures are leading to a decrease in crop yields and an increase in water scarcity.
+3. In Algeria, rising sea levels are threatening coastal communities and ecosystems.
+4. In Angola, deforestation is leading to an increase in desertification.
+5. In Antigua and Barbuda, rising sea levels are threatening coastal communities and ecosystems.
+6. In Argentina, rising temperatures are leading to an increase in extreme weather events, such as floods and droughts.
+7. In Armenia, rising temperatures are leading to a decrease in crop yields and an increase in water scarcity.
+8. In Austria, rising temperatures are leading to an increase in extreme weather events, such as floods and droughts.
+9. In Azerbaijan, rising temperatures are leading to an increase in extreme weather events, such as floods and droughts.
+10. In Bahrain, rising sea levels are threatening coastal communities and ecosystems.
+
+Q3: Tell me the data on individual national portals at country level
+
+The data on individual national portals at country level is as follows:
+
+Latvia: 96,148
+Lithuania: 121,605
+Luxembourg: 6,077
+Malta: 5,364
+Netherlands: 79,530
+Norway: 165,924
+Poland: 1.8 Million
+Portugal: 908,077
+Romania: 12.7 Million
+Slovakia: 329,270
+Slovenia: 85,875
+Spain: 1.4 Million
+Sweden: 79,482
+Switzerland: 75,106
+United Kingdom: 324,554
+
+Q4: Which are the top 10 countries with highest active notices?
+
+The top 10 countries with the highest active notices are:
+
+1. Romania - 12.7 Million
+2. Poland - 1.8 Million
+3. Spain - 1.4 Million
+4. Norway - 165,924
+5. Netherlands - 79,530
+6. Sweden - 79,482
+7. United Kingdom - 324,554
+8. Slovakia - 329,270
+9. Portugal - 908,077
+10. Lithuania - 121,605
+
+Q5: Which are the top 10 countries with highest business opportunity? Please share the name with figures.
+
+1. France - 1.7 Million
+2. Germany - 345,031
+3. Bulgaria - 119,165
+4. Croatia - 141,847
+5. Hungary - 128,453
+6. Czech Republic - 170,038
+7. Georgia - 228,347
+8. Ireland - 85,234
+9. Austria - 81,284
+10. Denmark - 31,502
+
+Q6: State top 5 countries with its counts which has the highest solar projects according to ADB
+
+1. Uzbekistan - 4
+2. Kazakhstan - 1
+3. India - 0
+4. Nepal - 0
+5. Bhutan - 0
+
+Q7: State top 5 countries with the highest approved projects according to ADB and state the sector of projects with counts of each.
+
+1. India - Agriculture, natural resources and rural development (3 projects); Public sector management (1 project); Transport (1 project)
+2. Philippines - Agriculture, natural resources and rural development (2 projects); Education (1 project)
+3. Viet Nam - Agriculture, natural resources and rural development (2 projects); Finance (1 project)
+4. Pakistan - Agriculture, natural resources and rural development (1 project); Finance (1 project)
+5. Uzbekistan - Public sector management (1 project)
+
+Q8: Which top 5 county in Florida has the highest no. of tenders with its count?
+
+1. Santa Rosa County - 2 tenders
+2. Wakulla County - 2 tenders
+3. Okaloosa County - 2 tenders
+4. Orange County - 1 tender
+5. City of Panama City - 2 tenders
+
